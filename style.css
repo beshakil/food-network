@@ -124,12 +124,12 @@ strong{
     margin-right: 20%; 
 }
 
-.parts{
+.parts {
     display: flex;
     margin-top: 50px;
-    margin-left: 12%;
-    margin-right: 8%;
-    padding-bottom: 100px;
+    margin-left: 11%;
+    margin-right: 6.8%;
+    padding-bottom: 50px;
 }
 .content-parts {
 	margin-right: 60px;
@@ -198,6 +198,7 @@ h2{
     margin-top: -10px;
 }
 footer{
+    margin-top: 50px;
     height: 150px;
     background-color: #0B0D17;
     color: white;
